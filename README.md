@@ -1,0 +1,1 @@
+# Addon Fix JP Locale
